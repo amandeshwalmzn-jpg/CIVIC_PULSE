@@ -1,0 +1,6 @@
+{
+  "name": "CivicAI",
+  "description": "An intelligent community issue reporting and analysis platform powered by CivicAI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
