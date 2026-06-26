@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/55c16271-bbf7-4900-852b-01c23443c45e
+View your app in AI Studio: https://civicpulse-921650798175.asia-southeast1.run.app
 
 ## Run Locally
 
